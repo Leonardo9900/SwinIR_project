@@ -164,7 +164,7 @@ def main(json_path='options/train_msrresnet_psnr.json'):
     # ----------------------------------------
     '''
 
-    for epoch in range(10):  # keep running 1000000
+    for epoch in range(50):  # keep running 1000000
         if opt['dist']:
             train_sampler.set_epoch(epoch)
 
