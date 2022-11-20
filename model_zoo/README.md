@@ -1,5 +1,6 @@
 model_zoo
 
+Models are at https://github.com/JingyunLiang/SwinIR/releases/tag/v0.0
 
 
 download all the models:
