@@ -110,5 +110,5 @@ As you can see, our method can remove heavy noise corruption and preserve high-f
 
 
 *********************************************************************************************
-*****AUTHOR----------> Leonardo Mongelli -----> mongelli.2020024@studenti.uniroma1.it  ******
+     AUTHOR----------> Leonardo Mongelli -----> mongelli.2020024@studenti.uniroma1.it 
 *********************************************************************************************
